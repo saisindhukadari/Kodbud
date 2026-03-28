@@ -1,2 +1,1 @@
-# Kodbud
-Java Project Series (Task 1–8): Built CLI and GUI apps including Calculator, ATM, Library, Login System, Digital Clock, and Notepad. Covers Core Java, OOP, Collections (ArrayList, HashMap), Multithreading, and Swing. Focused on hands-on learning, problem-solving, and improving coding skills.
+This repo contains 8 Java projects I built while learning Core Java. From simple CLI apps like calculator and ATM to GUI apps like a notepad, each project helped me understand OOP, collections, multithreading, and problem-solving by actually building and fixing things.
